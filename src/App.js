@@ -7,7 +7,7 @@ function App() {
     <>
     <div className="main bg-green-300 h-screen">
       <Navbar/>
-      <Textbox/>
+      {/* <Textbox/> */}
     </div>
     </>
   );
